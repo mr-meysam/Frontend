@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19416dc7-760f-4d7b-985d-ac2b89297de9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="project" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Front9804" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1RWIAlHnfAsrkkbPPmRxkJnnuZ7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\Front-9804\github" />
+      <recent name="D:\project" />
+      <recent name="D:\project\bootstrap-4.3.1-dist" />
+      <recent name="D:\project\github" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19416dc7-760f-4d7b-985d-ac2b89297de9" name="Default Changelist" comment="" />
+      <created>1569776290417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569776290417</updated>
+      <workItem from="1569776310970" duration="1324000" />
+      <workItem from="1569784597475" duration="1326000" />
+      <workItem from="1569826232928" duration="2471000" />
+      <workItem from="1569838189394" duration="22449000" />
+      <workItem from="1569950560858" duration="5134000" />
+      <workItem from="1569956176938" duration="8502000" />
+      <workItem from="1570028593395" duration="4889000" />
+      <workItem from="1570210380959" duration="13771000" />
+      <workItem from="1570288002415" duration="16311000" />
+      <workItem from="1570352191105" duration="12784000" />
+      <workItem from="1570378302219" duration="15269000" />
+      <workItem from="1570547180272" duration="20964000" />
+      <workItem from="1570629449268" duration="17135000" />
+      <workItem from="1570722953162" duration="26717000" />
+      <workItem from="1570784072608" duration="36818000" />
+      <workItem from="1570869898616" duration="4269000" />
+      <workItem from="1570877326896" duration="19055000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
